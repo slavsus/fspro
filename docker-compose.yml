@@ -7,3 +7,7 @@ some new changes
 third line
 
 fourth line
+
+git diff test
+
+git commit -a test
